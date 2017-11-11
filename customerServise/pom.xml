@@ -49,7 +49,7 @@
 
 		<dependency>
 			<groupId>info.order</groupId>
-			<artifactId>model</artifactId>
+			<artifactId>dataModel</artifactId>
 			<version>1.0</version>
 		</dependency>
 
